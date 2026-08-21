@@ -1,0 +1,13 @@
+{
+  "name": "team-Zenith-Helper",
+  "version": "1.0.0",
+  "description": "Bot pomagający zarządzania teamem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1"
+  }
+}
